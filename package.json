@@ -1,0 +1,1 @@
+{"license": "", "description": "Hide all re-posts on vk.com/feed", "contributors": [], "author": "Chips", "url": "", "dependencies": ["api-utils", "addon-kit"], "version": "vk_disabler.rev25", "lib": "lib", "fullName": "VK repost disabler", "main": "main", "id": "jid0-sfZsKqi9BjNFanuE4VC1jwZnsdQ", "name": "vk-repost-disabler"}
